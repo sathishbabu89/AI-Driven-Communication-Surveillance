@@ -99,3 +99,5 @@ The application expects an `.xlsx` file with the following columns:
 * `Subject`
 * `Message Body`
 
+## Screenshot
+<img width="1348" height="630" alt="image" src="https://github.com/user-attachments/assets/f178f79d-3db5-44ef-b4cd-fa6d127cc23b" />
